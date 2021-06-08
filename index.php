@@ -33,7 +33,7 @@ class Update {
     public $aidaposta;
     
     // ATUALIZA ID RETORNO do verifica
-    
+     
     public $atidaposta;
     public $atcotacaovalor;
     public $atcotacaotitle;
