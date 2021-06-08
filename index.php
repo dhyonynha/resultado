@@ -6,7 +6,7 @@ ini_set('memory_limit', '-1');
 
 
 
-
+include('conexao.php');
 class Update {
     public $score1;
     public $score2;
